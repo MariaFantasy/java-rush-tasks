@@ -2,6 +2,8 @@ package com.javarush.task.task01.task0115;
 
 /* 
 Ну это… С новым годом!
+
+Убери комментарии с части кода, чтобы на экран вывелось сообщение "Happy New Year".
 */
 
 public class Solution {

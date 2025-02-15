@@ -2,6 +2,8 @@ package com.javarush.task.task01.task0142;
 
 /* 
 Амиго очень умный
+
+Напиши программу, которая выводит на экран надпись: "Амиго очень умный".
 */
 
 public class Solution {

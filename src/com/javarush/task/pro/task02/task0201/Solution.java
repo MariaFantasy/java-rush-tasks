@@ -2,6 +2,8 @@ package com.javarush.task.pro.task02.task0201;
 
 /* 
 «Я по объявлению…»
+
+В методе main объяви переменные intValue, numericValue, size, number типа int. Присвой им разные значения. Используй одну команду для создания и инициализации переменных. Значениями могут быть любые целые числа.
 */
 
 public class Solution {

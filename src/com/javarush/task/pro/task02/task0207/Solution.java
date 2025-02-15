@@ -2,6 +2,8 @@ package com.javarush.task.pro.task02.task0207;
 
 /* 
 Логотип решает все
+
+В переменную tagline нужно записать строку "JustDoIt". Используй s1, s2, s3 и конкатенацию строк.
 */
 
 public class Solution {
